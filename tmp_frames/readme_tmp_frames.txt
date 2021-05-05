@@ -1,0 +1,1 @@
+This subdirectory is meant to store the frames generated for the orbit animations.
