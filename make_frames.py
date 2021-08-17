@@ -49,7 +49,7 @@ def plotter_xy(frame_num):
     return fig
 
 def plotter_yz(frame_num):
-    fig = plt.subplots(figsize=(16,10))
+    fig = plt.figure(figsize=(16,10))
     plt.xlim(-50,50)
     plt.ylim(-40,40)
     plt.scatter(0,0,s=1000,label='Sun',marker='o',facecolors='none',edgecolors='orange')
