@@ -12,4 +12,6 @@ This GitHub directory contains the python code used to generate plots and animat
 
 - Examples : this subdirectory contains example plots and animations for the Pluto-Neptune system and a Near MMR system visualized in (x,y) (y,z) (x,z) and (x,y,z) in the rotating frame of Neptune. These examples help to both highlight the dynamical features of the Pluto-Neptune system and to differentiate between actual and near MMR systems.
 
-Reference: Zaveri and Malhotra (2021), Visualizing Pluto's Orbit in 4D, 52nd Annual meeting of the AAS-DDA, Poster #107-02
+Reference: 
+Zaveri and Malhotra (2021), Visualizing Pluto's Orbit in 4D, 52nd Annual meeting of the AAS-DDA, Poster #107-02
+Nihaal Zaveri and Renu Malhotra (2021), Res. Notes AAS 5 235
